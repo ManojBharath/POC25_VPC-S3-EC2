@@ -1,3 +1,4 @@
+# Architecture
 terraform-project/
 ├── main.tf
 ├── variables.tf
